@@ -5,7 +5,7 @@ This is a simple implementation for Facebook Messenger Chat-bot.
 
 The basic aim for parrot is to learn on how to implement a chatbot with features like:
 - Smart reply
--NLP
+- NLP
 etc 
 
 a live example of the bot has been implemented on the page [here](https://www.facebook.com/sinusoid17) using [Chatfuel](https://chatfuel.com/)
