@@ -14,4 +14,12 @@ a live example of the bot has been implemented on the page [here](https://www.fa
 
 The code is a replica of what has been implemented with the page given above and can be utilised for learning purposes.
 
+
+This parrot messenger bot has the following requirements and dependencies:
+- Node.js
+- Heroku
+- Git
+- Code Editor (I have used **Visual Studio Code** for obvious reasons :P)
+
+
 **Build process and dependencies will be updated soon**
